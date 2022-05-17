@@ -1,0 +1,24 @@
+{
+    "parent": "block/bed_inventory",
+    "display": {
+        "thirdperson": {
+            "rotation": [ -120, 45, -40 ],
+            "translation": [ 0.4, 1.75, -2.5 ],
+            "scale": [ 0.23, 0.23, 0.23 ]
+        },
+        "firstperson": {
+            "rotation": [ -25, -247.5, 10 ],
+            "translation": [ -2.25, 1.75, 1.25 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "gui": {
+            "rotation": [ 0, -65, 0 ],
+            "translation": [ -0.5, 1, 0 ],
+            "scale": [ 0.85, 0.85, 0.85 ]
+        },
+        "fixed": {
+            "rotation": [ -90, 0, 0 ],
+            "translation": [ 0, 0, -2 ]
+        }
+    }
+}
